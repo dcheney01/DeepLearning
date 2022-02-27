@@ -1,1 +1,1 @@
-"# DeepLearning" 
+These are my projects from CS 474 - Introduction to Deep Learning that I took Winter 2022. This was my first introduction to Nerual Networks and I really enjoyed the unique way to solve problems through deep learning. 
