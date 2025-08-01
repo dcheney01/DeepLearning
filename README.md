@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Deep Learning Projects
 
 A collection of deep learning projects completed for CS 474 - Introduction to Deep Learning (Winter 2022). These Jupyter notebooks demonstrate fundamental neural network concepts and advanced deep learning techniques.
@@ -31,3 +32,6 @@ Implementation and analysis of the Transformer architecture for natural language
 - **CUDA** for GPU acceleration
 
 This was my first comprehensive introduction to neural networks and deep learning, providing hands-on experience with state-of-the-art architectures and techniques. 
+=======
+These are my projects from CS 474 - Introduction to Deep Learning that I took Winter 2022. This was my first introduction to Nerual Networks and I really enjoyed the unique way to solve problems through deep learning. 
+>>>>>>> a6dc7bc3e030c5b517a0c8f96c5056612a30c3cc
